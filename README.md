@@ -36,3 +36,16 @@ Onde podem me encontrar:
 
 <br>
 
+## Portfólio e Principais Projetos
+
+### Análise de Clientes AdventureWorks
+<img align="right" width="500" src="https://github.com/BruceFonseca2/AdventureWorksPortfolio/blob/main/imagens/Captura%20de%20tela%202023-12-03%20121514.png?raw=true">
+Projeto desenvolvido para análise e entendimento dos clientes da empresa AdventureWorks, utlizando linguagem SQL para consulta ao banco de dados.
+Principais desafios: <br>
+- Desenvolver consultas utilizando linguagem SQL.<br>
+- Estatística descritiva com as principais características dos clientes da base de dados AdventureWorks.<br>
+- Medir a performance e variação de novos clientes ao longo do tempo, identificando as principais fontes de crescimento da base de clientes.
+<br>
+<br>
+<a href="https://github.com/BruceFonseca2/AdventureWorksPortfolio"> Clique arqui</a>  para acessar o repositório no Github
+
